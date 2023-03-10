@@ -1,1 +1,3 @@
 # Pharmacy-cross-ad-Arduino
+Well, this is a project made in Tinkercad based on Arduino.
+It is actually very simple, at the start, the farthest LEDs turn on and at the same time and the screen with the pharmacy advertisement turns on. As you can see, the LEDs are arranged in the form of a cross, like any pharmacy you pass by. After a few seconds, the second group of LEDs turns on, the third, fourth, etc., along with different inscriptions on the screen. In the end, it returns to the start LEDs and inscriptions, because of this, a looped circuit is obtained. You can view the program on the Tinkercad website in the link attached to the code. 
